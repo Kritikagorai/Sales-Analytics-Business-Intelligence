@@ -1,0 +1,36 @@
+Order ID,Order Date,Customer Name,Customer Segment,Region,Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-2024-1001,2024-01-15,Acme Retail,Corporate,North,Technology,4K Ultra HD Monitor,450.00,2,0.05,120.00
+ORD-2024-1002,2024-01-18,Global Logistics,Corporate,East,Furniture,Ergonomic Office Chair,280.00,1,0.00,75.00
+ORD-2024-1003,2024-01-22,Sarah Jenkins,Consumer,West,Office Supplies,Heavy Duty Paper Shredder,120.00,1,0.10,25.00
+ORD-2024-1004,2024-01-28,TechPulse LLC,Corporate,North,Technology,Mechanical Wireless Keyboard,180.00,2,0.15,40.00
+ORD-2024-1005,2024-02-03,Apex Studios,Small Business,South,Technology,USB-C Dual Display Dock,210.00,1,0.00,65.00
+ORD-2024-1006,2024-02-09,David Miller,Consumer,East,Furniture,Executive Leather Recliner,520.00,1,0.25,-60.00
+ORD-2024-1007,2024-02-14,Beacon Health,Corporate,North,Office Supplies,Bulk Copier Paper (Case of 10),150.00,5,0.00,35.00
+ORD-2024-1008,2024-02-20,Elena Rostova,Consumer,West,Technology,Noise-Cancelling Headphones,320.00,1,0.05,95.00
+ORD-2024-1009,2024-02-25,Craftwork Design,Small Business,South,Furniture,Electric Height-Adjustable Desk,680.00,1,0.10,140.00
+ORD-2024-1010,2024-03-02,Summit Financial,Corporate,North,Technology,Enterprise Laser Printer,890.00,1,0.30,-110.00
+ORD-2024-1011,2024-03-08,Michael Chang,Consumer,East,Office Supplies,Archival Storage Boxes (Pack 12),85.00,3,0.00,28.00
+ORD-2024-1012,2024-03-14,BlueWave Labs,Small Business,West,Technology,External SSD 2TB Rugged,240.00,2,0.05,70.00
+ORD-2024-1013,2024-03-21,Pinnacle Group,Corporate,South,Furniture,Mesh Back Task Stool,160.00,2,0.15,30.00
+ORD-2024-1014,2024-03-29,Rachel Adams,Consumer,North,Technology,Webcam 4K Pro with Microphone,140.00,1,0.00,45.00
+ORD-2024-1015,2024-04-05,Vanguard Media,Small Business,West,Furniture,Conference Room Table 8ft,1250.00,1,0.20,260.00
+ORD-2024-1016,2024-04-12,Crestview Realty,Corporate,East,Office Supplies,Color Cartridge High Yield Pack,290.00,4,0.40,-45.00
+ORD-2024-1017,2024-04-18,James Wilson,Consumer,South,Technology,Smart Wi-Fi Mesh Router,195.00,1,0.00,55.00
+ORD-2024-1018,2024-04-25,Nova Biotech,Small Business,North,Technology,Curved Ultrawide Monitor 34-inch,750.00,1,0.10,190.00
+ORD-2024-1019,2024-05-02,Hannah Abbott,Consumer,East,Furniture,Solid Wood Bookshelf 5-Tier,340.00,1,0.10,60.00
+ORD-2024-1020,2024-05-10,Meridian Partners,Corporate,West,Technology,Portable Document Scanner,220.00,1,0.05,50.00
+ORD-2024-1021,2024-05-17,Urban Cafe,Small Business,South,Office Supplies,Thermal Receipt Paper Roll 50-Pack,95.00,2,0.00,32.00
+ORD-2024-1022,2024-05-24,Robert Taylor,Consumer,North,Technology,Noise-Cancelling Earbuds,160.00,1,0.15,35.00
+ORD-2024-1023,2024-06-01,Silverline Systems,Corporate,East,Technology,Server Rack Cable Management System,310.00,3,0.35,-30.00
+ORD-2024-1024,2024-06-08,Metro Legal,Small Business,West,Furniture,Filing Cabinet Locking 4-Drawer,420.00,2,0.05,95.00
+ORD-2024-1025,2024-06-15,Karen White,Consumer,South,Office Supplies,Dry Erase Magnetic Board 48x36,110.00,1,0.00,30.00
+ORD-2024-1026,2024-06-22,Omni Logistics,Corporate,North,Technology,Barcode Scanner Handheld 2D,175.00,2,0.10,48.00
+ORD-2024-1027,2024-07-03,Kestrel Energy,Small Business,East,Furniture,Stackable Guest Chairs (Set of 4),380.00,1,0.00,85.00
+ORD-2024-1028,2024-07-11,Lisa Wong,Consumer,West,Technology,Ergonomic Vertical Mouse,75.00,1,0.00,26.00
+ORD-2024-1029,2024-07-19,Starlight Retail,Corporate,South,Technology,High-Speed Label Printer,260.00,1,0.25,-20.00
+ORD-2024-1030,2024-07-27,Daniel Brooks,Consumer,North,Furniture,Adjustable Monitor Arm Dual Mount,135.00,1,0.05,38.00
+ORD-2024-1031,2024-08-04,Horizon Telecom,Corporate,East,Technology,Video Bar Conference Camera,640.00,1,0.10,155.00
+ORD-2024-1032,2024-08-14,Greenleaf Co,Small Business,West,Office Supplies,Heavy Duty Laminator Machine,190.00,2,0.05,48.00
+ORD-2024-1033,2024-08-22,Olivia Martinez,Consumer,South,Furniture,Under-Desk Footrest Ergonomic,65.00,1,0.00,22.00
+ORD-2024-1034,2024-08-30,Vortex Dynamics,Corporate,North,Technology,Uninterruptible Power Supply 1500VA,390.00,1,0.15,80.00
+ORD-2024-1035,2024-09-08,Zenith Media,Small Business,East,Office Supplies,Presentation Easel Whiteboard,145.00,1,0.00,42.00

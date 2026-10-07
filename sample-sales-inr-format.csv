@@ -1,0 +1,26 @@
+Invoice No,Sale Date,Client,Customer Type,City,Product Category,Item Name,Revenue,Units Sold,Discount Rate,Net Profit
+INV-9821,15/01/2024,Tata Consultancy Services,Corporate,Mumbai,Electronics,Smart Conference Display 65",₹145000.00,2,5%,₹38500.00
+INV-9822,19/01/2024,Arjun Sharma,Consumer,Delhi,Furniture,Ergonomic Mesh Chair,₹18500.00,1,0%,₹4800.00
+INV-9823,24/01/2024,Infosys Hub,Corporate,Bengaluru,Technology,Enterprise Cloud Router,₹42000.00,3,10%,₹9200.00
+INV-9824,28/01/2024,Pooja Patel,Consumer,Ahmedabad,Appliances,Cold Brew Coffee Station,₹12400.00,1,15%,(₹1800.00)
+INV-9825,03/02/2024,Zomato Partner Office,Small Business,Gurugram,Office Supplies,Heavy Duty Paper Shredder,₹9800.00,2,0%,₹2600.00
+INV-9826,08/02/2024,Vikram Malhotra,Consumer,Pune,Electronics,Wireless Active Noise Cancelling Headphones,₹24900.00,1,8%,₹6400.00
+INV-9827,14/02/2024,Reliance Retail,Corporate,Mumbai,Furniture,Motorized Standing Desk,₹58000.00,2,12%,₹14500.00
+INV-9828,21/02/2024,Kavita Rao,Consumer,Hyderabad,Technology,Portable 2TB NVMe SSD,₹16200.00,1,0%,₹3900.00
+INV-9829,26/02/2024,Swiggy Cloud Kitchen,Small Business,Bengaluru,Appliances,Commercial Microwave Oven,₹34000.00,1,25%,(₹4200.00)
+INV-9830,04/03/2024,HCL Technologies,Corporate,Noida,Electronics,Ultra-Wide Curved Monitor 34",₹64500.00,3,10%,₹17800.00
+INV-9831,11/03/2024,Rohan Gupta,Consumer,Kolkata,Office Supplies,Ergonomic Keyboard & Mouse Combo,₹7500.00,2,5%,₹1850.00
+INV-9832,18/03/2024,Flipkart Sellers Co,Small Business,Bengaluru,Technology,High-Speed Thermal Barcode Printer,₹22000.00,1,30%,(₹3100.00)
+INV-9833,25/03/2024,Ananya Iyer,Consumer,Chennai,Furniture,Executive High-Back Leather Chair,₹29000.00,1,5%,₹7200.00
+INV-9834,02/04/2024,Mahindra Logistics,Corporate,Mumbai,Technology,Industrial Handheld Scanner 2D,₹19800.00,4,10%,₹4500.00
+INV-9835,09/04/2024,Deepak Verma,Consumer,Jaipur,Appliances,Air Purifier HEPA 4-Stage,₹15600.00,1,0%,₹3800.00
+INV-9836,17/04/2024,Paytm Merchant Ops,Small Business,Noida,Office Supplies,Laminating Machine Pro A3,₹8400.00,1,0%,₹2100.00
+INV-9837,23/04/2024,Sunil Mehta,Consumer,Delhi,Electronics,Webcam 4K Ultra with Ring Light,₹11500.00,1,10%,₹2900.00
+INV-9838,30/04/2024,Wipro Campus,Corporate,Bengaluru,Furniture,Modular 6-Person Conference Table,₹112000.00,1,15%,₹26000.00
+INV-9839,07/05/2024,Meera Nambiar,Consumer,Kochi,Technology,Tri-Band Wi-Fi 6 Mesh System,₹21500.00,1,20%,(₹2400.00)
+INV-9840,15/05/2024,Lenskart Stores,Small Business,Delhi,Electronics,Digital Signage Player 4K,₹32000.00,2,5%,₹8100.00
+INV-9841,22/05/2024,Rajesh Nair,Consumer,Thiruvananthapuram,Furniture,Adjustable Dual Monitor Arm Desk Mount,₹6800.00,1,0%,₹1900.00
+INV-9842,30/05/2024,Airtel Enterprise,Corporate,Gurugram,Technology,Rackmount Uninterruptible Power Supply 2kVA,₹48000.00,1,8%,₹11200.00
+INV-9843,06/06/2024,Sneha Kulkarni,Consumer,Pune,Office Supplies,Magnetic Glass Whiteboard 4x3 ft,₹8900.00,1,0%,₹2400.00
+INV-9844,14/06/2024,Ola Electric Fleet,Small Business,Bengaluru,Technology,GPS Fleet Tracking Terminal,₹27500.00,5,25%,(₹3600.00)
+INV-9845,21/06/2024,L&T Construction,Corporate,Chennai,Electronics,Heavy Duty Outdoor Rugged Tablet,₹760000.00,1,10%,₹19000.00
